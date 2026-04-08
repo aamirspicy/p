@@ -1,4 +1,5 @@
 # first time making repo using github
-#updated now
+# updated now
 # now pull
 # fetch + merge
+# now see remote
