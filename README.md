@@ -3,3 +3,8 @@
 # now pull
 # fetch + merge
 # now see remote
+# using branch
+# using our customisez branches 
+# new line
+# sixth line
+# seventh line
